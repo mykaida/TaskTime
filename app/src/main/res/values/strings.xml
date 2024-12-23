@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TaskCalculator</string>
+    <string name="Title">Сумматор времени</string>
+    <string name="Result">Результат</string>
+    <string name="Calculate">Посчитать</string>
+    <string name="Clear">Очистить</string>
+</resources>
